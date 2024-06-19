@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd211c50-c2fd-4b7a-b1e7-026526ae6bd5" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/files/Categorical_Syllogisms_Revisited.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -42,6 +43,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/files" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="DjangoTestsConfigurationType">
       <module name="my_webpage" />
@@ -213,7 +219,8 @@
       <workItem from="1693612927531" duration="1195000" />
       <workItem from="1694011684482" duration="1168000" />
       <workItem from="1714444342338" duration="1130000" />
-      <workItem from="1714597899059" duration="6000" />
+      <workItem from="1714597899059" duration="30000" />
+      <workItem from="1718834104567" duration="158000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1663124890711</created>
@@ -308,7 +315,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714444803194</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="update">
+      <option name="closed" value="true" />
+      <created>1714597924613</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1714597924614</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
